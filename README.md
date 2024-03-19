@@ -76,19 +76,25 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
+
 ### Y_prediction array:
+
 ![image](https://github.com/arshitha7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144979143/937f5dc3-ab20-4999-a742-483f1d6372eb)
 
 ### Accuracy value:
+
 ![image](https://github.com/arshitha7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144979143/52b55a26-7d3b-4cd4-b886-82e96ea88b4c)
 
 ### Confusion array:
+
 ![image](https://github.com/arshitha7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144979143/6bbb1081-56d6-419a-8921-816032b08a69)
 
 ### Classification Report:
+
 ![image](https://github.com/arshitha7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144979143/7744a27a-d93a-47f1-ac35-f502161616d6)
 
 ### Prediction of LR:
+
 ![image](https://github.com/arshitha7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144979143/b4ee9337-f871-4ba8-bdfe-9fd4a9200c4a)
 
 ## Result:
